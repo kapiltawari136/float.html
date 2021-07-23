@@ -1,0 +1,116 @@
+   
+   body{
+    line-height: 1.8;
+    margin: 5px;
+   /* font-family: "lato",sans-serif;*/
+    font-size: 20px;
+    text-align: justify;
+
+   }
+
+
+ header{
+    margin: 0px 0px 20px 0px;
+    padding: 10px 0px 45px 10px;
+ 	background-color: lightblue;
+ 	
+    
+ }
+
+
+ #img1{
+    display: block;
+ 	float: left;
+ 	width: 15%;
+ 	border-radius: 80%;
+    margin right: 0px;
+
+ }
+ #span1{z-index: +1;
+  font-size: 22px;
+ 	font-weight: 800;
+    margin-left: 0px;
+}
+
+
+#div1{
+  font-size: 35px;
+  font-weight: 800;
+}
+
+  }
+  #div2{
+  	font-size: 20px;
+    margin-left: 20px;
+
+
+
+}
+
+
+ #divx{
+  clear: right;
+  margin-bottom: 2%;
+
+ }
+ #divy{margin-top: 8%;
+  margin: 5% 1% 1% 0%;
+  margin-right: 550px;
+}
+
+  #span1{font-size: 25px;
+  	background-color: lightgray;
+  	font-weight: 800;
+
+  }
+  #img2{ float: right;
+  	width: 40%;
+  	height:500px;
+  	border-radius: 10%;
+  	margin: 8;
+
+
+  }
+  #div3{
+  	clear: both;
+
+  }
+
+  #span2{
+  	font-size: 25px;
+  	font-weight: 800;
+  }
+  #div4{border: 10px solid lightblue;
+    margin: 5px;}
+  
+
+  #img3{
+  	float: left;
+  	width: 22%;
+  	height: 25%;
+    margin: 20px;
+
+  }
+  #p1{
+  	font-weight: 800;
+  	font-size: 25px;
+  }
+  #p2{
+  	font-weight: 600;
+  	font-size: 20px;
+  }
+  #div6{clear: left;
+    margin: 10px 10px 20px 10px;
+    text-align: justify;
+  }
+
+  #div5{text-align: justify;
+    margin: 10px;}
+
+
+
+
+
+
+
+
